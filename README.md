@@ -1,4 +1,4 @@
-# ONEverse Subgraph
+# Atlantys Subgraph
 
 ## Built on top of HORIZON BRIDGE SUBGRAPH
 

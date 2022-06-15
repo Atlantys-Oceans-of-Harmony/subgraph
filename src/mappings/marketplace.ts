@@ -4,7 +4,7 @@ import {
   tokenBought,
   tokenDeListed,
   tokenListed,
-} from "../../generated/OneverseMarketplace/OneverseMarketplace";
+} from "../../generated/AtlantysMarketplace/AtlantysMarketplace";
 
 import { NFT, Bid } from "../../generated/schema";
 
